@@ -1,0 +1,75 @@
+.navbar-nav
+{
+  padding: 20px;
+
+}
+.nav-item {
+  padding: 0 18px;
+
+}
+.btn{
+
+  margin-right: 10px;
+}
+
+.view-para
+{
+  color: white;
+padding-top: 20%;
+position: absolute;
+z-index: 2;
+
+}
+.img-view
+{
+  padding-top: 80px;
+
+    width: 100%;
+}
+
+#view-id
+{
+  background-image: url(viewid.jpg);
+background-size: 100%;
+background-size: cover;
+position: relative;
+height: 600px;
+}
+.form-control
+{
+
+  margin: 0 10px 0 0;
+}
+#subscribe
+{
+  background-image: url(subscribe.jpg);
+  background-size: 100%;
+  background-size: cover;
+
+  height: 500px;
+}
+.contain-sub
+{
+margin-top: 15%;
+}
+#best-catogory
+{
+  margin: 50px;
+}
+#footer
+{
+  text-align: left;
+  background-color: #17b0b8;
+}
+.footer-marg
+{
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+.job-det{
+  margin-top: 30px;
+}
+.job-img
+{
+  width: 80%;s
+}
